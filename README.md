@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OminousAmaterasu
-- 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Python and Web Development Languages (HTML, CSS, JS)
+- 👋 Hi, I’m Vern Cervantes
+- 👀 I’m interested in Software Engineering, Web Development, and Data Science
+- 🌱 I’m continuously learning Python Web Development Languages (HTML, CSS, JS), and Data Analytics tools like SQL, PowerBI, and Tableu
 - 📫 How to reach me: cervantesvern0@gmail.com
 
 <!---
